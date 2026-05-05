@@ -5,7 +5,7 @@ export function Footer() {
     <footer className="border-t py-12 bg-muted/50">
       <div className="container flex flex-col md:flex-row justify-between items-center gap-6">
         <div className="text-center md:text-left">
-          <p className="font-semibold text-lg">Suraj Kumar</p>
+          <p className="font-semibold text-lg">Suraj Bhan Pratap Singh</p>
           <p className="text-sm text-muted-foreground mt-1">Full Stack Developer</p>
         </div>
         
@@ -22,7 +22,7 @@ export function Footer() {
         </div>
         
         <div className="text-sm text-muted-foreground">
-          &copy; {new Date().getFullYear()} Suraj Kumar. All rights reserved.
+          &copy; {new Date().getFullYear()} Suraj Bhan Pratap Singh. All rights reserved.
         </div>
       </div>
     </footer>
