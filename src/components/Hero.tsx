@@ -49,7 +49,7 @@ export function Hero() {
           <a href="#projects">
             <Button size="lg" className="w-full sm:w-auto font-medium">View Projects</Button>
           </a>
-          <a href="https://drive.google.com/file/d/1qo7uWldCEWzwQ_V8YH5yfXlcxS_gmEkD/view?usp=sharing" target="_blank" rel="noreferrer" title="View Resume">
+          <a href="https://drive.google.com/file/d/1opJizozoPmZ3gVot7tq1c6KdIyFuvtJ2/view?usp=sharing" target="_blank" rel="noreferrer" title="View Resume">
             <Button variant="outline" size="lg" className="w-full sm:w-auto gap-2 font-medium">
               <Download className="h-5 w-5" /> View Resume
             </Button>
